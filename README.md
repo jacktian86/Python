@@ -1,9 +1,9 @@
 Python
 ======
 These files are designed to showcase the Python projects I have been working on recently at work.
-For confidentiality purposes, the data has been removed and I commented out all the code to preserve compilability.
+For confidentiality purposes, all associated data has been removed.
 
-All files are used to analyze and gather business intelligence that informs strategic decisions. 
+These files directly contribute to the business intelligence that informs our company's strategic decisions. 
 
 Brief Descriptions of each file:
 
